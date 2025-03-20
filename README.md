@@ -58,4 +58,5 @@ The high AR(1) coefficient (≈1) suggests possible non-stationarity, which coul
 
 ## Citations
 https://www.businessinsider.com/personal-finance/investing/what-is-the-federal-funds-rate
+
 https://medium.com/swlh/forecasting-interest-rates-with-arma-649cbcd2d388
