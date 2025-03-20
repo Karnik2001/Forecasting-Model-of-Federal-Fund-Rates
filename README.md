@@ -54,3 +54,8 @@ The confidence interval widens over time, showing increasing uncertainty.
 The lower bound of the confidence interval dips below zero, which may be unrealistic for FFR.
 
 The high AR(1) coefficient (≈1) suggests possible non-stationarity, which could impact the model’s reliability.
+
+
+## Citations
+https://www.businessinsider.com/personal-finance/investing/what-is-the-federal-funds-rate
+https://medium.com/swlh/forecasting-interest-rates-with-arma-649cbcd2d388
